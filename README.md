@@ -47,9 +47,8 @@ The dataset contains numerical and categorical features.
 | VisitorType | Type of visitor |
 | Weekend | Whether the visit occurred on a weekend |
 
-## C. GitHub Repository Link
 
-## C. GitHub Repository Link
+## C. GitHub Repository Link and Streamlit Application link
 
 **GitHub Repository:** [Online Shopping Purchase Prediction](https://github.com/Samriddhi-Mehta/online-shopping-purchase-prediction)
 
