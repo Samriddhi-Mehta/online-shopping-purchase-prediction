@@ -49,7 +49,13 @@ The dataset contains numerical and categorical features.
 
 ## C. GitHub Repository Link
 
-**GitHub Repository:** [Add your GitHub repository URL here]
+## C. GitHub Repository Link
+
+**GitHub Repository:** [Online Shopping Purchase Prediction](https://github.com/Samriddhi-Mehta/online-shopping-purchase-prediction)
+
+
+**Live Streamlit Application:** Deployment pending.
+
 
 ## D. Models Used and Model Comparison
 
@@ -135,3 +141,4 @@ It achieved:
 - MCC: 0.5639
 
 Although K-Nearest Neighbors
+
