@@ -54,7 +54,8 @@ The dataset contains numerical and categorical features.
 **GitHub Repository:** [Online Shopping Purchase Prediction](https://github.com/Samriddhi-Mehta/online-shopping-purchase-prediction)
 
 
-**Live Streamlit Application:** Deployment pending.
+**Live Streamlit Application:** 
+[Online Shopping Purchase Prediction](https://online-shopping-purchase-predictions.streamlit.app)
 
 
 ## D. Models Used and Model Comparison
